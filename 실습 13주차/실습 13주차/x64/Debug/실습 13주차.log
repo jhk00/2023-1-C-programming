@@ -1,0 +1,9 @@
+﻿  training1.c
+C:\Users\sokjh\source\repos\실습 13주차\실습 13주차\training1.c(17,17): error C2065: 'struct__person': 선언되지 않은 식별자입니다.
+C:\Users\sokjh\source\repos\실습 13주차\실습 13주차\training1.c(17,17): error C2146: 구문 오류: ';'이(가) 'personArr' 식별자 앞에 없습니다.
+C:\Users\sokjh\source\repos\실습 13주차\실습 13주차\training1.c(17,26): error C2065: 'personArr': 선언되지 않은 식별자입니다.
+C:\Users\sokjh\source\repos\실습 13주차\실습 13주차\training1.c(17,35): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\sokjh\source\repos\실습 13주차\실습 13주차\training1.c(17,39): error C2059: 구문 오류: '{'
+C:\Users\sokjh\source\repos\실습 13주차\실습 13주차\training1.c(24,28): error C2065: 'personArr': 선언되지 않은 식별자입니다.
+C:\Users\sokjh\source\repos\실습 13주차\실습 13주차\training1.c(24,30): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\sokjh\source\repos\실습 13주차\실습 13주차\training1.c(24,3): error C2198: 'ShowPersonData': 호출에 인수가 너무 적습니다.
